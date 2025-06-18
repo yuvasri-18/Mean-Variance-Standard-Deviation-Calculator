@@ -23,11 +23,22 @@ calculate([0,1,2,3,4,5,6,7,8])
   'min': [[0, 1, 2], [0, 3, 6], 0],
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
+
+
 ❌ Invalid Input
+
 calculate([1, 2, 3])
+
 ValueError: List must contain nine numbers.
+
+
 📂 Project Structure
+
 ├── mean_var_std.py   # Main Python function
+
 └── README.md         # Project documentation
+
+
 🙋‍♂️ Acknowledgments
+
 Thanks to freeCodeCamp for the project idea and learning path.
